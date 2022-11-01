@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C93D3C1639920D2F590AF976"
+               BuildableName = "MyFirstSwiftApp.app"
+               BlueprintName = "MyFirstSwiftApp"
+               ReferencedContainer = "container:MyFirstSwiftApp.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C93D3C1639920D2F590AF976"
+            BuildableName = "MyFirstSwiftApp.app"
+            BlueprintName = "MyFirstSwiftApp"
+            ReferencedContainer = "container:MyFirstSwiftApp.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
