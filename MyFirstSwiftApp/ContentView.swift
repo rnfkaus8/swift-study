@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
+        VStack(alignment: .leading) {
             Text("Title Text View")
                     .font(.title)
             Text("Subheadline Text View")
