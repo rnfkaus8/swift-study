@@ -16,11 +16,15 @@ struct ContentView: View {
         VStack(alignment: .leading) {
             Text("Title Text View")
                     .font(.title)
-            Text("Subheadline Text View")
-                    .font(.subheadline)
-            Text("use VStack")
-                    .font(.body)
+            HStack {
+                Text("Subheadline Text View")
+                        .font(.subheadline)
+                Spacer()
+                Text("use VStack")
+                        .font(.body)
+            }
         }
+        .padding()
     }
 }
 
